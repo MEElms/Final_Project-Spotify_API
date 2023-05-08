@@ -579,9 +579,9 @@ of music I listen to.
 
 ``` python
 bad = [***Censored***]
-# create Boolean mask based on whether word is in valid_words list
+
 mask = df_lyricsCount['word'].isin(bad).copy()
-# select rows that match the mask
+
 df_badWords = df_lyricsCount.loc[mask]
 ```
 
