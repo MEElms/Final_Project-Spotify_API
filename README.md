@@ -1,7 +1,7 @@
 
 # Spotify API - Final Project
 ### By: Matthew Elms
-
+<br><br>
 This project was completed using the packages:
 1. OS
 2. Spotipy
