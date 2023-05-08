@@ -1,5 +1,18 @@
 
 # Spotify API - Final Project
+### By: Matthew Elms
+
+This project was completed using the packages:
+1. OS
+2. Spotipy
+3. dotenv
+4. lyricsgenius
+5. NLTK
+6. Counter
+7. Concurrent.futures
+
+
+As well as the following packages:
 
 ``` python
 import pandas as pd
