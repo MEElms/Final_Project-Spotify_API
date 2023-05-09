@@ -399,8 +399,9 @@ df_clean
 
     [875 rows x 16 columns]
 
-
-
+<br>
+    
+# Let's get graphing! 
 ### Question: Percentage of Genres in the Playlist
 
 ##### Genre Breakdown for entire playlist
