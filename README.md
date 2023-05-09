@@ -4,7 +4,7 @@
 
 <br>
 
-This project was completed using the packages:
+This project was completed using these packages:
 
     - OS
     - Spotipy
