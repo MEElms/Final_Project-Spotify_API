@@ -5,6 +5,7 @@
 <br>
 
 This project was completed using the packages:
+
     - OS
     - Spotipy
     - dotenv
