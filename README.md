@@ -586,7 +586,7 @@ This graph depicts the top ten words used in lyrics in my Spotify
 playlist. I find it an interesting way to use NLP to discover the type
 of music I listen to.
 
-
+<br><br>
 # Disclaimer:
 
 #### This is to explore Natural Language Processing, I feel as 'Bad' words are part of natural language, they should be processed as well. Artists add 'bad' words to music to convey how they truly feel. My time in the service was littered with the use of foul language, however, it was natural and ingrained in us. I felt it would be an interesting perspective to look at all my favorite musics lyrics, but I would be doing an injustice to not analyze what might be the most important, thought-provoking words artists use in their music and why I listen to them. I will censor any foul words as this IS a school project.
