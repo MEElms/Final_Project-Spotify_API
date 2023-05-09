@@ -1,7 +1,9 @@
 
 # Spotify API - Final Project
 ### By: Matthew Elms
+
 <br>
+
 This project was completed using the packages:
     - OS
     - Spotipy
@@ -57,6 +59,7 @@ max_loudness = df_clean['Loudness'].max()
 df_clean['Loudness'] = (df_clean['Loudness'] - min_loudness) / (max_loudness - min_loudness)
 ```
 <br>
+
 ### Change Release Date to an actual date
 
 
@@ -67,6 +70,7 @@ df_clean
 ```
 
 <br>
+
 ### Remove Duplicated songs in the playlist if there are any
 
 
@@ -77,6 +81,7 @@ df_clean = df_clean.sort_values('Song').reset_index(drop=True)
 ```
 
 <br>
+
 ###### 6 songs were dropped as duplicates!
 
 
@@ -86,6 +91,7 @@ df_clean.shape
 ```
 
 <br>
+
 ### Cleaned the Genres column to have only the first genre of the "list"
 
 
@@ -101,6 +107,7 @@ df_clean = df_clean[
 df_clean
 ```
 <br>
+
 ### The Genres were very... vast; meaning the genres used very specific sub-genres rather than common genre categories. This code fixes this problem.
 
 ##### ChatGPT was used to turn this process into a 5 minute task. By printing all the unique genres, I was able to tell ChatGPT to turn that list into a consolidated genres; Country, Rock, Rap, Pop, Metal, etc.
