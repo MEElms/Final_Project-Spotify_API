@@ -28,7 +28,7 @@ import statsmodels.api as sm
 ```
 
 ``` python
-datafile = "/Users/mattelms/Documents/School/R-Intro-Data-Science/Spotify_Program/PySpotify/everything_playlist.csv"
+datafile = "/Users/********/PySpotify/everything_playlist.csv"
 df = pd.read_csv(datafile)
 ```
 
@@ -562,7 +562,7 @@ trend of my music as a whole!
 
 
 ``` python
-datafile = "/Users/mattelms/Documents/School/R-Intro-Data-Science/Spotify_Program/PySpotify/word_counts.csv"
+datafile = "/Users/*******/PySpotify/word_counts.csv"
 df_lyricsCount = pd.read_csv(datafile)
 df_lyricsCountTest = df_lyricsCount
 ```
@@ -659,7 +659,7 @@ playlist. Censored obviously.
 
 ``` python
 """
-datafile = "/Users/mattelms/Documents/School/R-Intro-Data-Science/Spotify_Program/PySpotify/everything_lyrics.csv"
+datafile = "/Users/*******/PySpotify/everything_lyrics.csv"
 df_lyrics = pd.read_csv(datafile)
 df_lyrics['sentiment'] = 0.0
 
@@ -684,7 +684,7 @@ df_sent.to_csv("sentiment.csv")
 
 
 ``` python
-datafile = "/Users/mattelms/Documents/School/R-Intro-Data-Science/Spotify_Program/PySpotify/sentiments.csv"
+datafile = "/Users/*****/PySpotify/sentiments.csv"
 df_sent1 = pd.read_csv(datafile)
 df_sent1
 ```
