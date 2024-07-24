@@ -18,7 +18,7 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 #playlist_link = input("Input link to spotify playlist: \n")
 
 # hard coded playlist link
-playlist_link = "https://open.spotify.com/playlist/2FtTP5EBJy3uAyt94BpE0P?si=124522da78c749e6"
+playlist_link = "https://open.spotify.com/playlist/"
 
 playlist_URI = playlist_link.split("/")[-1].split("?")[0]
 
