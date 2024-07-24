@@ -1,6 +1,5 @@
 
-# Spotify API - Final Project
-### By: Matthew Elms
+# Spotify Playlist Analysis Project
 
 <br>
 
